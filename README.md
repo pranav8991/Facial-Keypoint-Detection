@@ -148,6 +148,16 @@ Wanna see this bad boy in action? Here’s how to do it:
 
 ---
 
+## Reviewer’s Note ✨
+
+### You've done a fantastic job completing the Facial Keypoints Detection Project! 😊
+
+A special note from my awesome Udacity reviewer:
+
+> **Facial Keypoints Detection is a well-known [machine learning challenge](https://www.kaggle.com/c/facial-keypoints-detection/overview). If you want to improve this very model to allow it to work well in extreme conditions like bad lighting, bad head orientation (add appropriate PyTorch transformations like ColorJitter, HorizontalFlip, Rotation and more - [see this post](https://www.analyticsvidhya.com/blog/2019/12/image-augmentation-deep-learning-pytorch/) for more details), etc., the best thing you can do is to simply follow [NaimishNet](https://arxiv.org/abs/1710.00977) implementation details with some tweaks (optimizer, learning rate, batch size, etc) as per the latest improvements and your machine requirements. But for production-level performance, you can always use pre-trained models for better performance, say [Dlib library](https://github.com/davisking/dlib) provides real-time facial landmarks seamlessly. You can find a [tutorial here](https://pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/).
+
+---
+
 ## Conclusion 🏁
 
 Building this facial keypoint detection system was a rollercoaster of emotions. From face-detecting Haar Cascades to keypoint-predicting CNNs, I’ve gone through it all. But now, the model is up and running, predicting keypoints like a pro (most of the time). 🎉
